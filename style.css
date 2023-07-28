@@ -4,8 +4,11 @@
 
 h1, h2 {
     color: red;
+    text-align: center;
 }
 
 body {
     background-color: lightgray;
+    width: 500px;
+    margin: 0 auto;
 }
