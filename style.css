@@ -1,0 +1,11 @@
+* {
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h1, h2 {
+    color: red;
+}
+
+body {
+    background-color: lightgray;
+}
